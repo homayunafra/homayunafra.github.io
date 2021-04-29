@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>https://homayunafra.github.io/authors/</link>
+      <atom:link href="https://homayunafra.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://homayunafra.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://homayunafra.github.io/authors/admin/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a research scientist at &lt;a href=&#34;https://www.nokia.com/&#34; target=&#34;_blank&#34;&gt;Nokia&lt;/a&gt;. Prior to that I was a postdoctoral researcher in the &lt;a href=&#34;https://www.helsinki.fi/en/researchgroups/multi-source-probabilistic-inference&#34; target=&#34;_blank&#34;&gt;Multi-Source Probabilistic Inference&lt;/a&gt; group at &lt;a href=&#34;https://www.helsinki.fi/en&#34; target=&#34;_blank&#34;&gt;University of Helsinki&lt;/a&gt; working with Professor &lt;a href=&#34;https://www.cs.helsinki.fi/u/aklami/&#34; target=&#34;_blank&#34;&gt;Arto Klami&lt;/a&gt;. I did my PhD in the &lt;a href=&#34;https://research.cs.aalto.fi/pml/&#34; target=&#34;_blank&#34;&gt;Probabilistic Machine Leanring&lt;/a&gt; group under supervision of Professor &lt;a href=&#34;https://people.aalto.fi/samuel.kaski&#34; target=&#34;_blank&#34;&gt;Samuel Kaski&lt;/a&gt; in 2019. After finishing my PhD and before starting the postdoctoral position, I had the opportunity to work with some amazing people at &lt;a href=&#34;https://www.ai.sony/&#34; target=&#34;_blank&#34;&gt;Sony AI&lt;/a&gt; in Tokyo, as a visiting researcher.&lt;/p&gt;
+
+&lt;p&gt;My main research interests include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Neural network compression: reducing the size of deep neural network models while maitaining their predictive performance as much as possible to ease their usage in decentralized environment.&lt;/li&gt;
+&lt;li&gt;Interpretability: making machine learning models understandable for human decision makers.&lt;/li&gt;
+&lt;li&gt;Human-in-the-loop machine learning: combining human and machine intelligence to create more powerful machine learning models.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aki Vehtari</title>
+      <link>https://homayunafra.github.io/authors/aki-vehtari/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/aki-vehtari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juho Piironen</title>
+      <link>https://homayunafra.github.io/authors/juho-piironen/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/juho-piironen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Kaski</title>
+      <link>https://homayunafra.github.io/authors/samuel-kaski/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/samuel-kaski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomi Peltola</title>
+      <link>https://homayunafra.github.io/authors/tomi-peltola/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/tomi-peltola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javad Salimi Sartakhti</title>
+      <link>https://homayunafra.github.io/authors/javad-salimi-sartakhti/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/javad-salimi-sartakhti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nasser Ghadiri</title>
+      <link>https://homayunafra.github.io/authors/nasser-ghadiri/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/nasser-ghadiri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aki Havulinna</title>
+      <link>https://homayunafra.github.io/authors/aki-havulinna/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/aki-havulinna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baris Serim</title>
+      <link>https://homayunafra.github.io/authors/baris-serim/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/baris-serim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caroline Heckman</title>
+      <link>https://homayunafra.github.io/authors/caroline-heckman/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/caroline-heckman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chen He</title>
+      <link>https://homayunafra.github.io/authors/chen-he/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/chen-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giulio Jacucci</title>
+      <link>https://homayunafra.github.io/authors/giulio-jacucci/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/giulio-jacucci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iiris Sundin</title>
+      <link>https://homayunafra.github.io/authors/iiris-sundin/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/iiris-sundin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luana Micallef</title>
+      <link>https://homayunafra.github.io/authors/luana-micallef/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/luana-micallef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marta Soare</title>
+      <link>https://homayunafra.github.io/authors/marta-soare/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/marta-soare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muntasir Mamun Majumder</title>
+      <link>https://homayunafra.github.io/authors/muntasir-mamun-majumder/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/muntasir-mamun-majumder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedram Daee</title>
+      <link>https://homayunafra.github.io/authors/pedram-daee/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/pedram-daee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pekka Martinen</title>
+      <link>https://homayunafra.github.io/authors/pekka-martinen/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/pekka-martinen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdolreza Mirzaei</title>
+      <link>https://homayunafra.github.io/authors/abdolreza-mirzaei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/abdolreza-mirzaei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mehran Safayani</title>
+      <link>https://homayunafra.github.io/authors/mehran-safayani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/mehran-safayani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamad Saraee</title>
+      <link>https://homayunafra.github.io/authors/mohamad-saraee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/mohamad-saraee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seyed Hashem Ahmadi</title>
+      <link>https://homayunafra.github.io/authors/seyed-hashem-ahmadi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/seyed-hashem-ahmadi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

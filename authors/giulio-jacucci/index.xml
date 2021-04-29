@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giulio Jacucci | </title>
+    <link>https://homayunafra.github.io/authors/giulio-jacucci/</link>
+      <atom:link href="https://homayunafra.github.io/authors/giulio-jacucci/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giulio Jacucci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <title>Giulio Jacucci</title>
+      <link>https://homayunafra.github.io/authors/giulio-jacucci/</link>
+    </image>
+    
+    <item>
+      <title>Improving genomics-based predictions for precision medicine through active elicitation of expert knowledge</title>
+      <link>https://homayunafra.github.io/publication/2018-bioinformatics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2018-bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

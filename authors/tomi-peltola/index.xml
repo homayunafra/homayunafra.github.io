@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomi Peltola | </title>
+    <link>https://homayunafra.github.io/authors/tomi-peltola/</link>
+      <atom:link href="https://homayunafra.github.io/authors/tomi-peltola/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomi Peltola</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <title>Tomi Peltola</title>
+      <link>https://homayunafra.github.io/authors/tomi-peltola/</link>
+    </image>
+    
+    <item>
+      <title>A decision-theoretic approach for model interpretability in Bayesian framework</title>
+      <link>https://homayunafra.github.io/publication/2020-bayesian_interpretability/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2020-bayesian_interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-in-the-loop active covariance learning for improving prediction in small data sets</title>
+      <link>https://homayunafra.github.io/publication/2019-ijcai/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2019-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving genomics-based predictions for precision medicine through active elicitation of expert knowledge</title>
+      <link>https://homayunafra.github.io/publication/2018-bioinformatics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2018-bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive prior elicitation of feature similarities for small sample size prediction</title>
+      <link>https://homayunafra.github.io/publication/2017-umap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2017-umap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

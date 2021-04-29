@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://homayunafra.github.io/authors/admin/</link>
+      <atom:link href="https://homayunafra.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <title></title>
+      <link>https://homayunafra.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>A decision-theoretic approach for model interpretability in Bayesian framework</title>
+      <link>https://homayunafra.github.io/publication/2020-bayesian_interpretability/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2020-bayesian_interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-in-the-loop active covariance learning for improving prediction in small data sets</title>
+      <link>https://homayunafra.github.io/publication/2019-ijcai/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2019-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy least squares twin support vector machines</title>
+      <link>https://homayunafra.github.io/publication/2019-flstsvm/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2019-flstsvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving genomics-based predictions for precision medicine through active elicitation of expert knowledge</title>
+      <link>https://homayunafra.github.io/publication/2018-bioinformatics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2018-bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An EM based probabilistic two-dimensional CCA with application to face recognition</title>
+      <link>https://homayunafra.github.io/publication/2018-p2dcca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2018-p2dcca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive prior elicitation of feature similarities for small sample size prediction</title>
+      <link>https://homayunafra.github.io/publication/2017-umap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2017-umap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulated annealing least squares twin support vector machine (SA-LSTSVM) for pattern classification</title>
+      <link>https://homayunafra.github.io/publication/2017-salstsvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2017-salstsvm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

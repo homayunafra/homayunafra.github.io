@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nasser Ghadiri | </title>
+    <link>https://homayunafra.github.io/authors/nasser-ghadiri/</link>
+      <atom:link href="https://homayunafra.github.io/authors/nasser-ghadiri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nasser Ghadiri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <title>Nasser Ghadiri</title>
+      <link>https://homayunafra.github.io/authors/nasser-ghadiri/</link>
+    </image>
+    
+    <item>
+      <title>Fuzzy least squares twin support vector machines</title>
+      <link>https://homayunafra.github.io/publication/2019-flstsvm/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2019-flstsvm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
