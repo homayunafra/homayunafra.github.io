@@ -5,12 +5,20 @@
     <link>https://homayunafra.github.io/authors/mehran-safayani/</link>
       <atom:link href="https://homayunafra.github.io/authors/mehran-safayani/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehran Safayani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://homayunafra.github.io/img/icon-192.png</url>
       <title>Mehran Safayani</title>
       <link>https://homayunafra.github.io/authors/mehran-safayani/</link>
     </image>
+    
+    <item>
+      <title>Visualizations relevant to the user by multi-view latent variable factorization</title>
+      <link>https://homayunafra.github.io/publication/2014-icis/</link>
+      <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2014-icis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An EM based probabilistic two-dimensional CCA with application to face recognition</title>
