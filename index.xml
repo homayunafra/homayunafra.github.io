@@ -5,7 +5,7 @@
     <link>https://homayunafra.github.io/</link>
       <atom:link href="https://homayunafra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://homayunafra.github.io/img/icon-192.png</url>
       <title></title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://homayunafra.github.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://homayunafra.github.io/publication/</link>
-      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://homayunafra.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://homayunafra.github.io/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/slides/</guid>
       <description></description>
     </item>
     
@@ -75,128 +59,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://homayunafra.github.io/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/resources/</guid>
-      <description>
-
-&lt;p&gt;Here I keep a list of links and resources that I find useful. It is mostly tailored for those who are interested in game AI research.&lt;/p&gt;
-
-&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://aima.cs.berkeley.edu/&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence: A Modern Approach&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://incompleteideas.net/book/the-book-2nd.html&#34; target=&#34;_blank&#34;&gt;Reinforcement Learning: An Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gameaibook.org/&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence and Games&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;conferences&#34;&gt;Conferences&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ACM SIGGRAPH&lt;/li&gt;
-&lt;li&gt;ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG)&lt;/li&gt;
-&lt;li&gt;ACM SIGGRAPH / Eurographics Symposium on Computer Animation (SCA)&lt;/li&gt;
-&lt;li&gt;ACM SIGCHI - Special Interest Group on Computer-Human Interaction&lt;/li&gt;
-&lt;li&gt;CHI Play&lt;/li&gt;
-&lt;li&gt;IEEE Conference on Games (IEEE CoG) &amp;ndash; &lt;em&gt;Formerly Known as IEEE Conference on Computational Intelligence and Games (IEEE CIG)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Artiﬁcial Intelligence in Digital Entertainment (AIIDE)&lt;/li&gt;
-&lt;li&gt;Foundations of Digital Games (FDG)&lt;/li&gt;
-&lt;li&gt;Computer Games; Challenges and Opportunities (CGCO)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ACM Transactions on Graphics (TOG)&lt;/li&gt;
-&lt;li&gt;IEEE Transactions on Visualizations and Computer Graphics (IEEETVCG)&lt;/li&gt;
-&lt;li&gt;Computer Graphics Forum (CGF)&lt;/li&gt;
-&lt;li&gt;IEEE Transactions on Games (TOG) &amp;ndash; &lt;em&gt;Formerly Known as IEEE Transactions on Computational Intelligence and AI in Games (TCAIG)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://rail.eecs.berkeley.edu/deeprlcourse/&#34; target=&#34;_blank&#34;&gt;UC Berkeley Course on Deep Reinforcement Learning by Sergey Levine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html&#34; target=&#34;_blank&#34;&gt;UCL Course on Reinforcement Learning by David Silver&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://web.stanford.edu/class/cs234/index.html&#34; target=&#34;_blank&#34;&gt;Stanford Course on Reinforcement Learning by Emma Brunskill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://underactuated.csail.mit.edu/underactuated.html&#34; target=&#34;_blank&#34;&gt;MIT Course on Underactuated Robotics by Russ Tedrake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3305366.3328050&#34; target=&#34;_blank&#34;&gt;An Introduction to Physics-Based Animation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://advances.realtimerendering.com/&#34; target=&#34;_blank&#34;&gt;Advances in Real-Time Rendering in 3D Graphics and Games&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://seeing-theory.brown.edu/index.html&#34; target=&#34;_blank&#34;&gt;A Visual Introduction to Probability and Statistics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://material.io/design/communication/data-visualization.html&#34; target=&#34;_blank&#34;&gt;Data visualization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://missing.csail.mit.edu/&#34; target=&#34;_blank&#34;&gt;The Missing Semester of Your CS Education&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tutorials-and-guides&#34;&gt;Tutorials and Guides&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.otoro.net/2017/10/29/visual-evolution-strategies/&#34; target=&#34;_blank&#34;&gt;A Visual Guide to Evolution Strategies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scs.ryerson.ca/~aharley/vis/&#34; target=&#34;_blank&#34;&gt;An Interactive Node-Link Visualization of Convolutional Neural Networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.otoro.net/2017/11/12/evolving-stable-strategies/&#34; target=&#34;_blank&#34;&gt;Evolving Stable Strategies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://movingai.com/SAS/&#34; target=&#34;_blank&#34;&gt;Single-Agent Search Demo Page&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.argmin.net/&#34; target=&#34;_blank&#34;&gt;arg min Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://viclw17.github.io/2018/06/30/raytracing-rendering-equation/&#34; target=&#34;_blank&#34;&gt;Raytracing - Rendering Equation Insight&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.nvidia.com/blog/2018/08/01/ray-tracing-global-illumination-turner-whitted/&#34; target=&#34;_blank&#34;&gt;A Ray-Tracing Pioneer Explains How He Stumbled into Global Illumination&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://intro-to-dxr.cwyman.org/&#34; target=&#34;_blank&#34;&gt;Introduction to DirectX RayTracing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scriptinghelpers.org/blog/how-to-think-about-quaternions&#34; target=&#34;_blank&#34;&gt;How to Think About Quaternions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://datagenetics.com/blog/july22018/index.html&#34; target=&#34;_blank&#34;&gt;Physics Simulations using Verlet Integration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fabiensanglard.net/postcard_pathtracer/&#34; target=&#34;_blank&#34;&gt;A Postcard-sized Raytracer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://distill.pub/2017/momentum/&#34; target=&#34;_blank&#34;&gt;Why Momentum Really Works&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/aras-p/ToyPathTracer&#34; target=&#34;_blank&#34;&gt;A Toy Path Tracer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vis.ensmallen.org/&#34; target=&#34;_blank&#34;&gt;Ensmallen: a Flexible Optimization Framework&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@bromanz/axis-aligned-bounding-tetrahedra-and-octahedra-for-ray-tracing-bounding-volume-hierarchies-683751d84bca&#34; target=&#34;_blank&#34;&gt;Axis-Aligned Bounding Tetrahedra and Octahedra for Ray Tracing Bounding Volume Hierarchies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zalo.github.io&#34; target=&#34;_blank&#34;&gt;A Nice Blog for Visualizing Some Basic Computer Graphics Concepts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://libguides.usc.edu/writingguide/CARS#s-lg-guide-main&#34; target=&#34;_blank&#34;&gt;Organizing Your Social Sciences Research Paper: The C.A.R.S. Model&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://osf.io/ef53g/&#34; target=&#34;_blank&#34;&gt;Better Scientific Poster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://poloclub.github.io/cnn-explainer/&#34; target=&#34;_blank&#34;&gt;Learn Convolutional Neural Network (CNN) in your browser!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gym.openai.com/&#34; target=&#34;_blank&#34;&gt;OpenAI Gym&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/openai/baselines&#34; target=&#34;_blank&#34;&gt;OpenAI Baselines&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Unity-Technologies/ml-agents&#34; target=&#34;_blank&#34;&gt;Unity ML-Agents&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Unity-Technologies/marathon-envs&#34; target=&#34;_blank&#34;&gt;Marathon Environments: A Set of High-Dimensional Continuous Control Environments for Use with Unity ML-Agents Toolkit.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://osim-rl.stanford.edu/&#34; target=&#34;_blank&#34;&gt;Reinforcement Learning with Musculoskeletal Models in OpenSim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Unity-Technologies/obstacle-tower-source&#34; target=&#34;_blank&#34;&gt;Obstacle Tower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/google-research/football&#34; target=&#34;_blank&#34;&gt;Google Research Football&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gvgai.net/&#34; target=&#34;_blank&#34;&gt;General Video Game Playing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vizdoom.cs.put.edu.pl/&#34; target=&#34;_blank&#34;&gt;ViZDoom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Interactml/iml-unity&#34; target=&#34;_blank&#34;&gt;InteractML, an Interactive Machine Learning Visual Scripting framework for Unity3D&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;databases&#34;&gt;Databases&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://mocap.cs.cmu.edu/&#34; target=&#34;_blank&#34;&gt;CMU Graphics Lab Motion Capture Database&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mrl.snu.ac.kr/mdb/all-sessions&#34; target=&#34;_blank&#34;&gt;SNU Motion Database&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ldoceonline.com/&#34; target=&#34;_blank&#34;&gt;Longman Dictionary of Contemporary English&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ezgif.com/&#34; target=&#34;_blank&#34;&gt;Online GIF Maker and Image Editor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dillinger.io/&#34; target=&#34;_blank&#34;&gt;Online Markdown Editor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/zalo/MathUtilities&#34; target=&#34;_blank&#34;&gt;MathUtilities for Unity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://text-to-speech-demo.ng.bluemix.net/&#34; target=&#34;_blank&#34;&gt;Watson Text to Speech&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bensound.com/&#34; target=&#34;_blank&#34;&gt;Royalty Free Music by Bensound&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kmjn.org/game-rankings/&#34; target=&#34;_blank&#34;&gt;Ranking of Institutions in Technical Games Research&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shdr.bkcore.com/&#34; target=&#34;_blank&#34;&gt;Shdr - Online GLSL Shader Editor, Viewer and Validator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fancast.ir/amin-babadi/&#34; target=&#34;_blank&#34;&gt;My talk with Amir Hossein Fasihi at Fancast (In Persian)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/9rlbZtQVgF4&#34; target=&#34;_blank&#34;&gt;My talk at Persian Game Jammers Discord Channel (In Persian)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>

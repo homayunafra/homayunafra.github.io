@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "title": "Recurrent Space-time Graph Neural Networks",
+        "image": "images/RSTG_model.jpg",
+        "status": "NeurIPS 2019",
+        "authors": "Andrei Nicolicioiu*, Iulia Duta*, Marius Leordeanu",
+        "abstract": "We propose a neural graph model, recurrent in space and time, suitable for capturing both the local appearance and the complex higher-level interactions of different entities and objects within the changing world scene. ur model is general and could learn to recognize a variety of high level spatio-temporal concepts, obtaining state-of-the-art performance on the challenging Something-Something human-object interaction dataset.",
+        "items": [
+            {
+                "name": "pdf",
+                "url": "pdfs/RSTG_pdf.pdf"
+            },
+            {
+                "name": "poster",
+                "url": "pdfs/RSTG_poster.pdf"
+            },
+            {
+                "name": "code",
+                "url": "https://github.com/IuliaDuta/RSTG"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Mining for meaning: from vision to language through multiple networks consensus",
+        "image": "images/caption_girl_texting2.gif",
+        "status": "BMVC 2018",
+        "authors": "Iulia Duta*, Andrei Nicolicioiu*, Vlad Bogolin, Marius Leordeanu",
+        "abstract": "We design multiple models, to explore different video encoding strategies, to explore intermediate video-language representation and to investigate the gains brought by additional tasks and features. We propose a method for video captioning by selecting from the results of multiple encoder-decoder models. Our method surpassed the state-of-the-art results on the challenging MSR-VTT dataset.",
+        "items": [
+            {
+                "name": "pdf",
+                "url": "pdfs/mining_pdf.pdf"
+            },
+            {
+                "name": "poster",
+                "url": "pdfs/mining_poster.pdf"
+            },
+	    {
+                "name": "page",
+                "url": "pdfs/_pdf.pdf"
+            }
+        ]
+    }
+]

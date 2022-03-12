@@ -5,12 +5,28 @@
     <link>https://homayunafra.github.io/publication/</link>
       <atom:link href="https://homayunafra.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://homayunafra.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://homayunafra.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Mind the structure: adopting structural information for deep neural network compression</title>
+      <link>https://homayunafra.github.io/publication/2021-icip/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2021-icip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Risky Choices in Unknown Environments</title>
+      <link>https://homayunafra.github.io/publication/2021-acml/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2021-acml/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A decision-theoretic approach for model interpretability in Bayesian framework</title>
@@ -45,6 +61,30 @@
     </item>
     
     <item>
+      <title>An EM based probabilistic two-dimensional CCA with application to face recognition</title>
+      <link>https://homayunafra.github.io/publication/2018-p2dcca/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2018-p2dcca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive prior elicitation of feature similarities for small sample size prediction</title>
+      <link>https://homayunafra.github.io/publication/2017-umap/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2017-umap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulated annealing least squares twin support vector machine (SA-LSTSVM) for pattern classification</title>
+      <link>https://homayunafra.github.io/publication/2017-salstsvm/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2017-salstsvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visualizations relevant to the user by multi-view latent variable factorization</title>
       <link>https://homayunafra.github.io/publication/2016-icassp/</link>
       <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
@@ -57,30 +97,6 @@
       <link>https://homayunafra.github.io/publication/2014-icis/</link>
       <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
       <guid>https://homayunafra.github.io/publication/2014-icis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An EM based probabilistic two-dimensional CCA with application to face recognition</title>
-      <link>https://homayunafra.github.io/publication/2018-p2dcca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2018-p2dcca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive prior elicitation of feature similarities for small sample size prediction</title>
-      <link>https://homayunafra.github.io/publication/2017-umap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2017-umap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulated annealing least squares twin support vector machine (SA-LSTSVM) for pattern classification</title>
-      <link>https://homayunafra.github.io/publication/2017-salstsvm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2017-salstsvm/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anton Muravev | </title>
+    <link>https://homayunafra.github.io/authors/anton-muravev/</link>
+      <atom:link href="https://homayunafra.github.io/authors/anton-muravev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anton Muravev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <title>Anton Muravev</title>
+      <link>https://homayunafra.github.io/authors/anton-muravev/</link>
+    </image>
+    
+    <item>
+      <title>Mind the structure: adopting structural information for deep neural network compression</title>
+      <link>https://homayunafra.github.io/publication/2021-icip/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/2021-icip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
