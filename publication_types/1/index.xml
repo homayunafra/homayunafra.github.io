@@ -5,42 +5,58 @@
     <link>https://homayunafra.github.io/publication_types/1/</link>
       <atom:link href="https://homayunafra.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <url>https://homayunafra.github.io/img/avatar</url>
       <title>1</title>
       <link>https://homayunafra.github.io/publication_types/1/</link>
     </image>
     
     <item>
+      <title>Mind the structure: adopting structural information for deep neural network compression</title>
+      <link>https://homayunafra.github.io/publication/conference-paper/2021-icip/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2021-icip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling risky choices in unknown environments</title>
+      <link>https://homayunafra.github.io/publication/conference-paper/2021-acml/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2021-acml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human-in-the-loop active covariance learning for improving prediction in small data sets</title>
-      <link>https://homayunafra.github.io/publication/2019-ijcai/</link>
+      <link>https://homayunafra.github.io/publication/conference-paper/2019-ijcai/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2019-ijcai/</guid>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2019-ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive prior elicitation of feature similarities for small sample size prediction</title>
-      <link>https://homayunafra.github.io/publication/2017-umap/</link>
+      <link>https://homayunafra.github.io/publication/conference-paper/2017-umap/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2017-umap/</guid>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2017-umap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualizations relevant to the user by multi-view latent variable factorization</title>
-      <link>https://homayunafra.github.io/publication/2016-icassp/</link>
+      <link>https://homayunafra.github.io/publication/conference-paper/2016-icassp/</link>
       <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2016-icassp/</guid>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2016-icassp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A novel bat algorithm based on chaos for optimization tasks</title>
-      <link>https://homayunafra.github.io/publication/2014-icis/</link>
+      <link>https://homayunafra.github.io/publication/conference-paper/2014-icis/</link>
       <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2014-icis/</guid>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2014-icis/</guid>
       <description></description>
     </item>
     

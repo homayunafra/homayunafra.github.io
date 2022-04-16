@@ -7,7 +7,7 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <url>https://homayunafra.github.io/img/avatar</url>
       <title>Authors</title>
       <link>https://homayunafra.github.io/authors/</link>
     </image>
@@ -26,7 +26,7 @@
 &lt;ul&gt;
 &lt;li&gt;Neural network compression: reducing the size of deep neural network models while maitaining their predictive performance as much as possible to ease their usage in decentralized environment.&lt;/li&gt;
 &lt;li&gt;Machine learning Interpretability: making machine learning models understandable for human decision makers.&lt;/li&gt;
-&lt;li&gt;Human-in-the-loop machine learning: combining human and machine intelligence to create more powerful machine learning models.&lt;/li&gt;
+&lt;li&gt;Human-in-the-loop machine learning: combining human and machine intelligence to create more powerful models.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication_types/2/</loc>
+    <loc>https://homayunafra.github.io/publication_types/1/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,12 +68,12 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2021-icip/</loc>
+    <loc>https://homayunafra.github.io/publication/conference-paper/2021-icip/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2021-acml/</loc>
+    <loc>https://homayunafra.github.io/publication/conference-paper/2021-acml/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,7 +108,12 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2020-bayesian_interpretability/</loc>
+    <loc>https://homayunafra.github.io/publication_types/2/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://homayunafra.github.io/publication/journal-article/2020-bayesian_interpretability/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,17 +138,12 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication_types/1/</loc>
+    <loc>https://homayunafra.github.io/publication/conference-paper/2019-ijcai/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2019-ijcai/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://homayunafra.github.io/publication/2019-flstsvm/</loc>
+    <loc>https://homayunafra.github.io/publication/journal-article/2019-flstsvm/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2018-bioinformatics/</loc>
+    <loc>https://homayunafra.github.io/publication/journal-article/2018-bioinformatics/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,7 +223,7 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2018-p2dcca/</loc>
+    <loc>https://homayunafra.github.io/publication/journal-article/2018-p2dcca/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,7 +238,7 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2017-umap/</loc>
+    <loc>https://homayunafra.github.io/publication/conference-paper/2017-umap/</loc>
     <lastmod>2017-07-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,7 +248,7 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2017-salstsvm/</loc>
+    <loc>https://homayunafra.github.io/publication/journal-article/2017-salstsvm/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,12 +258,12 @@
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2016-icassp/</loc>
+    <loc>https://homayunafra.github.io/publication/conference-paper/2016-icassp/</loc>
     <lastmod>2016-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://homayunafra.github.io/publication/2014-icis/</loc>
+    <loc>https://homayunafra.github.io/publication/conference-paper/2014-icis/</loc>
     <lastmod>2014-04-21T00:00:00+00:00</lastmod>
   </url>
   

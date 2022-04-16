@@ -7,48 +7,48 @@
     <description>Samuel Kaski</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://homayunafra.github.io/img/icon-192.png</url>
+      <url>https://homayunafra.github.io/img/avatar</url>
       <title>Samuel Kaski</title>
       <link>https://homayunafra.github.io/authors/samuel-kaski/</link>
     </image>
     
     <item>
       <title>A decision-theoretic approach for model interpretability in Bayesian framework</title>
-      <link>https://homayunafra.github.io/publication/2020-bayesian_interpretability/</link>
+      <link>https://homayunafra.github.io/publication/journal-article/2020-bayesian_interpretability/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2020-bayesian_interpretability/</guid>
+      <guid>https://homayunafra.github.io/publication/journal-article/2020-bayesian_interpretability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human-in-the-loop active covariance learning for improving prediction in small data sets</title>
-      <link>https://homayunafra.github.io/publication/2019-ijcai/</link>
+      <link>https://homayunafra.github.io/publication/conference-paper/2019-ijcai/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2019-ijcai/</guid>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2019-ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving genomics-based predictions for precision medicine through active elicitation of expert knowledge</title>
-      <link>https://homayunafra.github.io/publication/2018-bioinformatics/</link>
+      <link>https://homayunafra.github.io/publication/journal-article/2018-bioinformatics/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2018-bioinformatics/</guid>
+      <guid>https://homayunafra.github.io/publication/journal-article/2018-bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive prior elicitation of feature similarities for small sample size prediction</title>
-      <link>https://homayunafra.github.io/publication/2017-umap/</link>
+      <link>https://homayunafra.github.io/publication/conference-paper/2017-umap/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2017-umap/</guid>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2017-umap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualizations relevant to the user by multi-view latent variable factorization</title>
-      <link>https://homayunafra.github.io/publication/2016-icassp/</link>
+      <link>https://homayunafra.github.io/publication/conference-paper/2016-icassp/</link>
       <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/publication/2016-icassp/</guid>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2016-icassp/</guid>
       <description></description>
     </item>
     
