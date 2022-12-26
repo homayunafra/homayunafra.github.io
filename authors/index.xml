@@ -5,7 +5,7 @@
     <link>https://homayunafra.github.io/authors/</link>
       <atom:link href="https://homayunafra.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://homayunafra.github.io/img/avatar</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://homayunafra.github.io/authors/admin/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://homayunafra.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a senior scientist at &lt;a href=&#34;https://www.nokia.com/&#34; target=&#34;_blank&#34;&gt;Nokia Technologies&lt;/a&gt; working on deep neural network compression and explainable AI. Prior to that I was a postdoctoral researcher in the &lt;a href=&#34;https://www.helsinki.fi/en/researchgroups/multi-source-probabilistic-inference&#34; target=&#34;_blank&#34;&gt;Multi-Source Probabilistic Inference&lt;/a&gt; group at &lt;a href=&#34;https://www.helsinki.fi/en&#34; target=&#34;_blank&#34;&gt;University of Helsinki&lt;/a&gt; working with Professor &lt;a href=&#34;https://www.cs.helsinki.fi/u/aklami/&#34; target=&#34;_blank&#34;&gt;Arto Klami&lt;/a&gt;.&lt;/p&gt;
 
@@ -29,6 +29,62 @@
 &lt;li&gt;Human-in-the-loop machine learning: combining human and machine intelligence to create more powerful models.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Michael Spranger</title>
+      <link>https://homayunafra.github.io/authors/michael-spranger/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/michael-spranger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emre Aksu</title>
+      <link>https://homayunafra.github.io/authors/emre-aksu/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/emre-aksu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesco Cricri</title>
+      <link>https://homayunafra.github.io/authors/francesco-cricri/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/francesco-cricri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamed Rezazadegan Tavakoli</title>
+      <link>https://homayunafra.github.io/authors/hamed-rezazadegan-tavakoli/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/hamed-rezazadegan-tavakoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honglei Zhang</title>
+      <link>https://homayunafra.github.io/authors/honglei-zhang/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/honglei-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miska Hannuksela</title>
+      <link>https://homayunafra.github.io/authors/miska-hannuksela/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/miska-hannuksela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rangu Goutham</title>
+      <link>https://homayunafra.github.io/authors/rangu-goutham/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/authors/rangu-goutham/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -68,38 +124,6 @@
       <link>https://homayunafra.github.io/authors/chang-rajani/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://homayunafra.github.io/authors/chang-rajani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emre Aksu</title>
-      <link>https://homayunafra.github.io/authors/emre-aksu/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/authors/emre-aksu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francesco Cricri</title>
-      <link>https://homayunafra.github.io/authors/francesco-cricri/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/authors/francesco-cricri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hamed Rezazadegan Tavakoli</title>
-      <link>https://homayunafra.github.io/authors/hamed-rezazadegan-tavakoli/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/authors/hamed-rezazadegan-tavakoli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Honglei Zhang</title>
-      <link>https://homayunafra.github.io/authors/honglei-zhang/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://homayunafra.github.io/authors/honglei-zhang/</guid>
       <description></description>
     </item>
     
