@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emre Aksu | </title>
+    <link>https://homayunafra.github.io/authors/emre-aksu/</link>
+      <atom:link href="https://homayunafra.github.io/authors/emre-aksu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emre Aksu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://homayunafra.github.io/img/avatar</url>
+      <title>Emre Aksu</title>
+      <link>https://homayunafra.github.io/authors/emre-aksu/</link>
+    </image>
+    
+    <item>
+      <title>On the importance of temporal dependencies of weight updates in communication efficient federated learning</title>
+      <link>https://homayunafra.github.io/publication/conference-paper/2022-vcip/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2022-vcip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Binary-Ternary Quantization for Communication Efficient Federated Computation</title>
+      <link>https://homayunafra.github.io/publication/conference-paper/2022-icip/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2022-icip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the structure: adopting structural information for deep neural network compression</title>
+      <link>https://homayunafra.github.io/publication/conference-paper/2021-icip/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2021-icip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

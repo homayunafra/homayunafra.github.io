@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goutham Rangu | </title>
+    <link>https://homayunafra.github.io/authors/goutham-rangu/</link>
+      <atom:link href="https://homayunafra.github.io/authors/goutham-rangu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Goutham Rangu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://homayunafra.github.io/img/avatar</url>
+      <title>Goutham Rangu</title>
+      <link>https://homayunafra.github.io/authors/goutham-rangu/</link>
+    </image>
+    
+    <item>
+      <title>On the importance of temporal dependencies of weight updates in communication efficient federated learning</title>
+      <link>https://homayunafra.github.io/publication/conference-paper/2022-vcip/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://homayunafra.github.io/publication/conference-paper/2022-vcip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

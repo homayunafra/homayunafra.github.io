@@ -1,0 +1,76 @@
+/* Custom styles for the research_interests section */
+body.research_interests {
+  font-family: 'Times New Roman', sans-serif; /* Example font */
+  padding-left: 100px; /* Adjust as needed */
+  padding-right: 100px; /* Adjust as needed */
+  max-width: 1400px; /* Set a maximum width if desired */
+  margin: 0 auto; /* Center the content */
+}
+
+/* Additional specific styles */
+body.research_interests h1 {
+  color: #2c3e50;
+}
+
+body.research_interests p {
+  margin-bottom: 1.2em; /* Adjust paragraph spacing if needed */
+}
+
+/* Adjust line spacing for specific elements */
+body.research_interests h1, body.research_interests h2, body.research_interests h3 {
+  line-height: 1.5;
+}
+
+body.research_interests p {
+  line-height: .5;
+  margin-bottom: 1.2em; /* Adjust paragraph spacing */
+}
+
+.nav {
+  display: flex;
+  align-items: center; /* Aligns items vertically in the center */
+  justify-content: flex-start; /* Aligns all items to the left */
+}
+
+.logo {
+  margin-right: 20px; /* Optional: space between logo and menu */
+}
+
+.horizontal-menu {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.horizontal-menu li {
+  margin-right: 20px; /* Space between menu items */
+}
+
+hr {
+  width: 90%; /* Adjust the width as needed */
+  margin: 20px 0; /* Center the line and add vertical spacing */
+  border: 2px solid #100100100; /* Customize the line's appearance */
+  text-align: left; /* Align to the left */
+}
+
+img {
+  vertical-align: middle; /* Align with text */
+  margin-right: 20px; /* Space between logo and text */
+}
+
+.topic {
+  display: flex;
+  align-items: center; /* Aligns items at the start */
+  margin-bottom: 10px; /* Space between each position */
+}
+
+.topic img {
+  max-width: 450px; /* Adjust size as needed */
+  margin-leftt: 35px; /* Space between logo and text */
+}
+
+.topic div {
+  flex: 0.75;          /* Ensures text takes up available space */
+  line-height: 1.4; /* Adjust line spacing as needed */
+}

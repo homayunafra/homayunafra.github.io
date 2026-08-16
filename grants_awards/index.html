@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="/css/experience.css">
+  
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="/" accesskey="h" title=" ">
+              </a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu" class="horizontal-menu">
+			  <li>
+				<a href="/" title="Home">
+				  <span>Home</span>
+				</a>
+			  </li>
+			  <li>
+				<a href="/research_interests/" title="Research Interests">
+				  <span>Research Interests</span>
+				</a>
+			  </li>
+			  <li>
+				<a href="/publications/" title="Publications">
+				  <span>Publications</span>
+				</a>
+			  </li>
+			  <li>
+				<a href="/courses/" title="Teaching">
+				  <span>Teaching</span>
+				</a>
+			  </li>
+			  <li>
+				<a href="/experience/" title="Experience">
+				  <span>Experience</span>
+				</a>
+			  </li>
+        </ul>
+    </nav>
+</header>
+
+</head>
+<body class="experience">
+  <main>
+    <ul>
+<li><a href="https://insf.org/en">Iran National Science Foundation (INSF)</a> <br>Independent Research Project<br> <strong>Year:</strong> 2025, <strong>Amount:</strong> <span>250M IRR</span>
+<br><br></li>
+<li><a href="https://www.hiit.fi/">Helsinki Institute for Information Technology (HIIT)</a> <br> Research visit scholarship <br> <strong>Year:</strong> 2019, <strong>Amount:</strong> <span>3K €</span>
+<br><br></li>
+<li><a href="https://tekniikanedistamissaatio.fi/en/">Finnish Foundation for Technology Promotion (Tekniikan Edistamissaatio)</a> <br> Scholarship <br> <strong>Year:</strong> 2019, <strong>Amount:</strong> <span>9K €</span>
+<br><br></li>
+<li><a href="https://elisa.com/corporate/about-elisa/research-and-development/hpy-research-foundation/">HPY Research Foundation</a> <br> Insentive grant <br> <strong>Year:</strong> 2019, <strong>Amount:</strong> <span>3K €</span>
+<br><br></li>
+<li><a href="https://www.aalto.fi/en/foundation-for-aalto-university-science-and-technology/grants-from-the-foundations-own-funds">Foundation for Aalto University Science and Technology</a> <br> Scholarship <br> <strong>Year:</strong> 2018, <strong>Amount:</strong> <span>15K €</span>
+<br><br></li>
+<li>Machine Learning Summer School (MLSS'18) <br> Travel grant <br> <strong>Year:</strong> 2018
+<br><br></li>
+<li><a href="https://acadsci.fi/en/">Finnish Academy of Science and Letters (Suomalainen Tiedeakatemia)</a> <br> One year scholarship <br> <strong>Year:</strong> 2017, <strong>Amount:</strong> <span>25K €</span>
+<br><br></li>
+<li>International Conference on User Modeling, Adaptation, and Personalization (UMAP) <br> Student travel scholarship <br> <strong>Year:</strong> 2017</li>
+</ul>
+
+  </main>
+  
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+
+</body>
+</html>

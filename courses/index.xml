@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Homayun Afrabandpey</title>
+    <link>/courses/</link>
+    <description>Recent content on Homayun Afrabandpey</description>
+    <generator>Hugo -- 0.126.2</generator>
+    <language>en</language>
+    <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/courses/special_topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/special_topics/</guid>
+      <description>To Be Constructed </description>
+    </item>
+    <item>
+      <title>Advanced Programming Languages: Python</title>
+      <link>/courses/python_prog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/python_prog/</guid>
+      <description>Description This course offers a deep dive into Python programming with a focus on writing clean, modular, and efficient code. Emphasizing a hands-on approach, students engage with real-world problems to reinforce concepts and develop practical coding skills. By combining theory with practice, the course builds a strong foundation for solving complex programming challenges with confidence. Content Lecture 1: Introduction
+Lecture 2: Data Types &amp;amp; Casting
+Lecture 3: Strings &amp;amp; Input-Output</description>
+    </item>
+    <item>
+      <title>Statistics &amp; Probability for CS Students</title>
+      <link>/courses/stats_prob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/stats_prob/</guid>
+      <description>Description This course introduces fundamental concepts in probability and statistics, tailored for computer science students. Through a combination of theory and practical exercises, students learn how to model and analyze uncertainty in real-world scenarios. Emphasis is placed on applying counting techniques, random variables, and distributions to solve problems that arise in computing and data analysis. Learning is reinforced through practice with real-world applications. Content Session 1: Introduction
+Session 2: Counting &amp;amp; Combinatorics I</description>
+    </item>
+  </channel>
+</rss>

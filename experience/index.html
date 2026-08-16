@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="/css/experience.css">
+  
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="/" accesskey="h" title=" ">
+              </a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu" class="horizontal-menu">
+			  <li>
+				<a href="/" title="Home">
+				  <span>Home</span>
+				</a>
+			  </li>
+			  <li>
+				<a href="/research_interests/" title="Research Interests">
+				  <span>Research Interests</span>
+				</a>
+			  </li>
+			  <li>
+				<a href="/publications/" title="Publications">
+				  <span>Publications</span>
+				</a>
+			  </li>
+			  <li>
+				<a href="/courses/" title="Teaching">
+				  <span>Teaching</span>
+				</a>
+			  </li>
+			  <li>
+				<a href="/grants_awards/" title="Grants &amp; Awards">
+				  <span>Grants &amp; Awards</span>
+				</a>
+			  </li>
+        </ul>
+    </nav>
+</header>
+
+</head>
+<body class="experience">
+  <main>
+    <h2 id="positions">Positions</h2>
+<hr>
+<div class="position">
+  <div>
+    <strong><a href="https://www.umz.ac.ir/">University of Mazandaran</a>, Iran (Jan. 2025 - )</strong><br>
+    Assistant Professor
+  </div>
+  <img src="/images/UMZ_logo.png" alt="UMZ Logo">
+</div>
+<div class="position">
+  <div>
+    <strong><a href="https://www.nokia.com/">Nokia</a>, Finland (Oct. 2020 - Aug. 2024)</strong><br>
+    Senior Researcher
+  </div>
+  <img src="/images/Nokia_logo.jpg" alt="Nokia Logo">
+</div>
+<div class="position">
+  <div>
+    <strong><a href="https://www.helsinki.fi/en">University of Helsinki</a>, Finland (April-Oct. 2020)</strong><br>
+    Postdoctoral Researcher
+  </div>
+  <img src="/images/Helsinki_logo.png" alt="Helsinki Logo">
+</div>
+<div class="position">
+  <div>
+    <strong><a href="https://ai.sony/">Sony AI</a>, Tokyo, Japan (Jan.-April 2020)</strong><br>
+    Visiting Researcher
+  </div>
+  <img src="/images/Sony_logo.png" alt="Sony Logo">
+</div>
+<h2 id="education">Education</h2>
+<hr>
+<div class="position">
+  <div>
+    <strong><a href="https://www.aalto.fi/en">Aalto University</a>, Finland (Dec. 2019)</strong><br>
+    PhD Candidate, Computer Science
+	<br>
+	Thesis: <a href="https://aaltodoc.aalto.fi/items/942a4562-225c-4a60-aa7a-c05ba4fc4aa2">Methods for Probabilistic Modeling of Knowledge Elicitation for Improving Machine Learning Predictions</a>
+	<br>
+	Supervisor: <a href="https://kaski-lab.com/">Prof. Samuel Kaski</a>
+  </div>
+  <img src="/images/Aalto_logo.png" alt="Aalto Logo">
+</div>
+<br>
+<div class="position">
+  <div>
+    <strong><a href="https://english.iut.ac.ir/">Isfahan University of Technology</a>, Finland (Dec. 2014)</strong><br>
+    M.Sc., Computer Science
+	<br>
+	Thesis: <a href="https://aaltodoc.aalto.fi/items/942a4562-225c-4a60-aa7a-c05ba4fc4aa2">Methods for Probabilistic Modeling of Knowledge Elicitation for Improving Machine Learning Predictions</a>
+	<br>
+	Supervisor: <a href="https://safayani.iut.ac.ir/">Dr. Mehran Safayani</a>
+	<br>
+	Advisor: <a href="https://mirzaei.iut.ac.ir/">Dr. Abdolreza Mirzaei</a>
+  </div>
+  <img src="/images/IUT_logo.png" alt="IUT Logo">
+</div>
+<br>
+<div class="position">
+  <div>
+    <strong><a href="https://english.iut.ac.ir/">Isfahan University of Technology</a>, Finland (Sept. 2011)</strong><br>
+    B.Sc., Information Technology Engineering
+  </div>
+  <img src="/images/IUT_logo.png" alt="IUT Logo">
+</div>
+<h2 id="academic-services">Academic Services</h2>
+<hr>
+<p><strong>Program Committee Member</strong></p>
+<ul>
+<li>AISTATS 2026</li>
+<li>ECML 2021, 2023, 2024</li>
+<li>ACM FAccT 2023</li>
+<li>ACML 2022</li>
+<li>AAAI 2018</li>
+<li>IJCAI 2017</li>
+</ul>
+<p><strong>External Reviewer</strong></p>
+<ul>
+<li>Neural Networks</li>
+<li>IEEE Transactions on Neural Networks and Learning Systems</li>
+<li>Neurocomputing</li>
+<li>Engineering Applications of Artificial Intelligence</li>
+</ul>
+
+  </main>
+  
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+
+</body>
+</html>
