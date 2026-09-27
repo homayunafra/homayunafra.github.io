@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/courses/</loc>
+    <loc>https://homayunafra.github.io/courses/</loc>
   </url><url>
-    <loc>//localhost:1313/courses/special_topics/</loc>
+    <loc>https://homayunafra.github.io/courses/special_topics/</loc>
   </url><url>
-    <loc>//localhost:1313/experience/</loc>
+    <loc>https://homayunafra.github.io/experience/</loc>
   </url><url>
-    <loc>//localhost:1313/grants_awards/</loc>
+    <loc>https://homayunafra.github.io/grants_awards/</loc>
   </url><url>
-    <loc>//localhost:1313/research_interests/</loc>
+    <loc>https://homayunafra.github.io/research_interests/</loc>
   </url><url>
-    <loc>//localhost:1313/courses/python_prog/</loc>
+    <loc>https://homayunafra.github.io/courses/python_prog/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://homayunafra.github.io/</loc>
   </url><url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>https://homayunafra.github.io/publications/</loc>
   </url><url>
-    <loc>//localhost:1313/courses/stats_prob/</loc>
+    <loc>https://homayunafra.github.io/courses/stats_prob/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://homayunafra.github.io/tags/</loc>
   </url>
 </urlset>
