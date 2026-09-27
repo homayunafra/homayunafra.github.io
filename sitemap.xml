@@ -2,54 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/history-of-oil/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/</loc>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/special_topics/</loc>
   </url><url>
-    <loc>/tags/mediterranean-world/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/experience/</loc>
   </url><url>
-    <loc>/tags/oleic-science/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/grants_awards/</loc>
   </url><url>
-    <loc>/tags/philology/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/research_interests/</loc>
   </url><url>
-    <loc>/publications/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/python_prog/</loc>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>/publications/paper1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/publications/</loc>
   </url><url>
-    <loc>/tags/canine-pulmonary-efficiency/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/stats_prob/</loc>
   </url><url>
-    <loc>/tags/sausage-dogs/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publications/paper2/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/zoology/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses/</loc>
-  </url><url>
-    <loc>/courses/special_topics/</loc>
-  </url><url>
-    <loc>/experience/</loc>
-  </url><url>
-    <loc>/grants_awards/</loc>
-  </url><url>
-    <loc>/research_interests/</loc>
-  </url><url>
-    <loc>/courses/python_prog/</loc>
-  </url><url>
-    <loc>/courses/stats_prob/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
