@@ -22,14 +22,14 @@ Lecture 3: Strings &amp;amp; Input-Output</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://homayunafra.github.io/courses/special_topics/</guid>
       <description>Description This M.Sc.-level course introduces emerging and interdisciplinary topics in artificial intelligence that are typically not covered in standard AI curricula, including areas such as federated learning and neuroscience-inspired AI. The course combines instructor-led lectures with student presentations, in which students study a recent research paper, review the surrounding literature, and present the topic together with their analysis and implementation experience.Content Session 1: Introduction
-Session 2: Attention Session 3: Transformer Session 4:</description>
+Session 2: Attention Session 3: Transformer Session 4: Introduction to LLMs Session 5:</description>
     </item>
     <item>
       <title>Statistics &amp; Probability for CS Students</title>
       <link>https://homayunafra.github.io/courses/stats_prob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://homayunafra.github.io/courses/stats_prob/</guid>
-      <description>Description This course introduces fundamental concepts in probability and statistics, tailored for computer science students. Through a combination of theory and practical exercises, students learn how to model and analyze uncertainty in real-world scenarios. Emphasis is placed on applying counting techniques, random variables, and distributions to solve problems that arise in computing and data analysis. Learning is reinforced through practice with real-world applications. Content Session 1: Introduction Session 2: Counting &amp;amp; Combinatorics I Session 3: Counting &amp;amp; Combinatorics II Session 4: Probability Session 5: Conditional Probability and Bayes I Session 6: Conditional Probability and Bayes II Session 7: Independence Session 8: Random variables Session 9: Bernoulli and Binomial variables Session 10:</description>
+      <description>Description This course introduces fundamental concepts in probability and statistics, tailored for computer science students. Through a combination of theory and practical exercises, students learn how to model and analyze uncertainty in real-world scenarios. Emphasis is placed on applying counting techniques, random variables, and distributions to solve problems that arise in computing and data analysis. Learning is reinforced through practice with real-world applications. Content Session 1: Introduction Session 2: Counting &amp;amp; Combinatorics I Session 3: Counting &amp;amp; Combinatorics II Session 4: Probability Session 5: Conditional Probability and Bayes I Session 6: Conditional Probability and Bayes II Session 7: Independence Session 8: Random variables Session 9: Bernoulli and Binomial variables Session 10: Poisson Session 11:</description>
     </item>
   </channel>
 </rss>
